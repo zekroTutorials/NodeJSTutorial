@@ -1,4 +1,4 @@
-# `#01` - NodeJS Installation
+# `#01` - NPM Package erstellen
 
 > Die Vorgangsweise ist bei Linux und Windows gleich.
 
