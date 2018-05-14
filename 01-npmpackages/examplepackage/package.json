@@ -1,0 +1,29 @@
+{
+  "name": "examplepackage",
+  "version": "0.1.0",
+  "description": "This is an example package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekroTutorials/NodeJSTutorial.git"
+  },
+  "keywords": [
+    "test",
+    "justatest"
+  ],
+  "author": "zekro <contact@zekro.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekroTutorials/NodeJSTutorial/issues"
+  },
+  "homepage": "https://github.com/zekroTutorials/NodeJSTutorial#readme",
+
+  "dependencies": {
+  },
+  "dev-dependencies": {
+  }
+
+}
