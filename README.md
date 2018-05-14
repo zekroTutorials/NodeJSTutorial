@@ -13,9 +13,9 @@ Have some questions or want to join my developer community discord? Take a look!
 
 ----
 
- Part | Thema | Video | Code 
+ Part | Thema | Video | Docs
 ------|-------|-------|------
-`# 00` | NodeJS installation | [-/-]() | [-/-]()
+`# 00` | NodeJS installation | [-/-]() | [-/-](https://github.com/zekroTutorials/NodeJSTutorial/tree/master/00-installation)
 `# 01` | NPM Packages | [-/-]() | [-/-]()
 `# 02` | NPM Package Publishing | [-/-]() | [-/-]()
 `# 03` | Event Handling | [-/-]() | [-/-]()
