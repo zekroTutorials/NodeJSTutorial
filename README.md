@@ -18,11 +18,12 @@ Have some questions or want to join my developer community discord? Take a look!
 `# 00` | NodeJS installation | [Video](https://youtu.be/xI8WOmXevlw) | [Docs](https://github.com/zekroTutorials/NodeJSTutorial/tree/master/00-installation)
 `# 01` | NPM Packages | [-/-]() | [Docs](https://github.com/zekroTutorials/NodeJSTutorial/tree/master/01-npmpackages)
 `# 02` | NPM Package Publishing | [-/-]() | [-/-]()
-`# 03` | Event Handling | [-/-]() | [-/-]()
-`# 04` | HTTPS Web Request | [-/-]() | [-/-]()
-`# 05` | Web Sockets | [-/-]() | [-/-]()
-`# 06` | Express | [-/-]() | [-/-]()
-`# 07` | Electron | [-/-]() | [-/-]()
+`# 03` | Dockerizing | [-/-]() | [-/-]()
+`# 04` | Event Handling | [-/-]() | [-/-]()
+`# 05` | HTTPS Web Request | [-/-]() | [-/-]()
+`# 06` | Web Sockets | [-/-]() | [-/-]()
+`# 07` | Express | [-/-]() | [-/-]()
+`# 08` | Electron | [-/-]() | [-/-]()
 
 ---
 
@@ -34,6 +35,7 @@ Danke! :)
 ## Contributors
 
 - [@zekrotja](https://github.com/zekrotja)
+- [@leedjd](https://github.com/leedjd)
 
 ---
 
